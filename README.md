@@ -1,13 +1,13 @@
 # Buscador de CEP com Python 🤖🔎
 
-<div align="middle">
-<img src="https://github.com/manuggetts/busca_cep/assets/141872152/719e71ba-04e5-42fa-a0be-cef94b7f57ac" width="800">
-</div>
-
 >Este projeto foi originalmente criado como parte de um processo seletivo, onde o desafio era desenvolver um script de Automação de Processos Robóticos (RPA) usando AutoHotkey.
 Depois de concluir o desafio, decidi recriar o projeto usando Python.
 >A transição de AutoHotkey para Python também me permitiu explorar diferentes bibliotecas e técnicas, e acredito que o projeto final é mais fácil de usar como resultado.
 >Estou compartilhando este projeto na esperança de que ele possa ser útil para outras pessoas que estão aprendendo sobre RPA ou que precisam buscar informações de CEPs de uma forma automatizada.
+
+<div align="middle">
+<img src="https://github.com/manuggetts/busca_cep/assets/141872152/719e71ba-04e5-42fa-a0be-cef94b7f57ac" width="800">
+</div>
 
 ## Descrição do Projeto 📝
 Este projeto utiliza Python para buscar informações de CEPs a partir da API ViaCEP. O script lê uma lista de CEPs de uma planilha Excel, busca as informações de cada CEP usando a API ViaCEP, e então adiciona essas informações de volta à planilha original.
